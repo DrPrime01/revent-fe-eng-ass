@@ -1,0 +1,51 @@
+Technical Questions
+
+1. What is the purpose of the useEffect hook?
+Ans: The useEffect hook is used for handling side effects that may affect the efficiency of a functional component.
+
+2. Which of the following is not a faeture of ES6?
+Ans: No option given
+
+3. What does the justify-content property do in a flex box?
+Ans: It aligns the flex items along the main axis.
+
+4. What HTTP method is typically used to create a new resource in a RESTful API?
+Ans: POST
+
+5. What will be the output of the following code segment?
+Ans: 7
+
+6. Jacob is using HTML and CSS to create a website. He wants to add a margin to his HTML so that it looks like this:
+1px from the left, 75px from the bottom, 45px from the top, and 15px from the right margin. 
+What subsequent CSS code snippet may he employ?
+Ans: Assumimg the element has a class name of item; 
+.item {
+    margin: 45px 15px 75px 1px;
+}
+
+7. Which of the following way is not a valid way to manage state in a React application?
+Ans: No option provided.
+
+8. What is the purpose of the Promise.all method in JavaScript?
+Ans: Promise.all is a JavaScript method that takes an array of JavaScript promises and solves them concurrently returning a single promise that resolves if all the promises in the array have been resolved or rejects if any of the promise in the array is rejected.
+
+9. Which of the following CSS properties is used to define the size of the rows in a grid container?
+Ans: row-gap
+
+10. What is the primary purpose of the React Context API?
+Ans: The primary purpose of the React Context API is to manage and share state across components of a React application without having to pass props from every parent component to the child component until it reaches the main target in the component tree.
+
+11. Which of the following techniques helps prevent Cross-Site Scripting (XSS) attacks.
+Ans: No option given, but the following techniques work: Input validation, defining Content Security Policy headers, the use of HTTPOnly cookies, effects
+
+12. In React, what is the purpose of the higher-order components (HOCs)?
+Ans: The primary purpose of HOCs is to enable code reuse by allowing the composition and sharing of common logic across different components.
+
+13. What is the primary purpose of Webpack in a React project?
+Ans: The primary purpose of Webpack in a React project is to bundle and optimize the various assets and resources needed by the application.
+
+14. Which CSS unit is relative to the width of the viewport?
+Ans: vw
+
+15. What is the primary role of the JavaScript event loop?
+Ans: The primary role of the JavaScript event loop is to manage and coordinate the execution of code in an asynchronous manner. 
