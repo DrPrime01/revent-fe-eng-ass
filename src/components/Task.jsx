@@ -44,7 +44,6 @@ export default function Task({
           <EditIcon />
         </button>
         <button
-          disabled={isCompleted}
           className="border-none p-2 rounded-full hover:bg-slate-300 transition-all"
           onClick={handleDelete}
         >
