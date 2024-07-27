@@ -159,6 +159,7 @@ export default function TaskList() {
         title={title}
         handleDescChange={(e) => setDesc(e.target.value)}
         handleTitleChange={(e) => setTitle(e.target.value)}
+        isEditing={isEditing}
       />
     </div>
   );
